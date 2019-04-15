@@ -34,6 +34,8 @@ import argparse
 
 import rospy
 
+#THIS CODE IS A MODIFIED VERSION OF joint_position_keyboard.py FROM RETHINK ROBOTICS EXAMPLE CODE
+
 import baxter_interface
 import baxter_external_devices
 

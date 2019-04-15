@@ -1,3 +1,5 @@
+#THIS CODE IS A MODIFIED VERSION OF joint_position_keyboard.py FROM RETHINK ROBOTICS EXAMPLE CODE
+
 #!/usr/bin/env python
 
 # Copyright (c) 2013-2015, Rethink Robotics
